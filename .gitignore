@@ -1,0 +1,7 @@
+node_modules/
+cdk.out/
+.env
+*.log
+__pycache__/
+.pytest_cache/
+*.pyc
